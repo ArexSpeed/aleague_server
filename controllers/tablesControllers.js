@@ -36,4 +36,43 @@ const addTable = async(req,res) => {
   }
 }
 
-export {getTable, addTable}
+//Edit table
+const editTable = async(req,res) => {
+  const table = await Table.findById(req.params.id)
+
+  if(table){
+    table.season= req.body.season || table.season,
+      table.position= req.body.position || table.position,
+      table.team_name= req.body.team_name || table.team_name,
+      table.matches= req.body.matches || table.matches,
+      table.win= req.body.win || table.win,
+      table.draw= req.body.draw || table.draw,
+      table.lose= req.body.lose || table.lose,
+      table.goal_plus= req.body.goal_plus || table.goal_plus,
+      table.goal_minus= req.body.goal_minus || table.goal_minus,
+      table.bilans= req.body.bilans || table.bilans,
+      table.points= req.body.points || table.points
+
+    const updatedTable = await table.save()
+
+    res.json({
+      _id: updatedTable._id,
+      season: updatedTable.season,
+      position: updatedTable.position,
+      team_name: updatedTable.team_name,
+      matches: updatedTable.matches,
+      win: updatedTable.win,
+      draw: updatedTable.draw,
+      lose: updatedTable.lose,
+      goal_plus: updatedTable.goal_plus,
+      goal_minus: updatedTable.goal_minus,
+      bilans: updatedTable.bilans,
+      points: updatedTable.points 
+    })
+  }else {
+    res.status(404)
+    throw new Error('Order not found')
+  }
+}
+
+export {getTable, addTable, editTable}

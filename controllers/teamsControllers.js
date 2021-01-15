@@ -45,4 +45,30 @@ const addTeam = async(req,res) => {
   }
 }
 
-export {getTeams, addTeam, showTeam}
+//Edit team
+const editTeam = async(req,res) => {
+  const team = await Team.findById(req.params.id)
+
+  if(team){
+    team.name = req.body.name || team.name
+    team.site = req.body.site || team.site
+    team.shortName = req.body.shortName || team.shortName
+    team.logo = req.body.logo || team.logo
+
+    const updatedTeam = await team.save()
+
+    res.json({
+      _id: updatedTeam._id,
+      name: updatedTeam.name,
+      site: updatedTeam.site,
+      shortName: updatedTeam.shortName,
+      logo: updatedTeam.logo,
+      
+    })
+  }else {
+    res.status(404)
+    throw new Error('Order not found')
+  }
+}
+
+export {getTeams, addTeam, showTeam, editTeam}
