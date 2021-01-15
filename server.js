@@ -2,6 +2,7 @@ import express from 'express'
 import dotenv from 'dotenv'
 import connectDB from './config/db.js'
 import teamsRoutes from './routes/teamsRoutes.js'
+import tablesRoutes from './routes/tablesRoutes.js'
 
 dotenv.config()
 connectDB();
@@ -14,6 +15,7 @@ app.get('/', (req,res) => {
 })
 
 app.use('/api/teams', teamsRoutes)
+app.use('/api/tables', tablesRoutes)
 
 
 const PORT = process.env.PORT || 5000
