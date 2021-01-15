@@ -3,6 +3,7 @@ import dotenv from 'dotenv'
 import connectDB from './config/db.js'
 import teamsRoutes from './routes/teamsRoutes.js'
 import tablesRoutes from './routes/tablesRoutes.js'
+import matchesRoutes from './routes/matchesRoutes.js'
 
 dotenv.config()
 connectDB();
@@ -16,6 +17,7 @@ app.get('/', (req,res) => {
 
 app.use('/api/teams', teamsRoutes)
 app.use('/api/tables', tablesRoutes)
+app.use('/api/matches', matchesRoutes)
 
 
 const PORT = process.env.PORT || 5000
