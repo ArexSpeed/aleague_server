@@ -1,0 +1,43 @@
+const tables = [
+  {
+    season: 1,
+    position: 1,
+    team_name: "Victory",
+    matches: 30,
+    win: 10,
+    draw: 10,
+    lose: 10,
+    goal_plus: 100,
+    goal_minus: 50,
+    bilans: 50,
+    points: 60,
+  },
+  {
+    season: 1,
+    position: 2,
+    team_name: "Kame",
+    matches: 30,
+    win: 20,
+    draw: 0,
+    lose: 10,
+    goal_plus: 150,
+    goal_minus: 50,
+    bilans: 100,
+    points: 90,
+  },
+  {
+    season: 1,
+    position: 3,
+    team_name: "Ashton",
+    matches: 30,
+    win: 10,
+    draw: 0,
+    lose: 20,
+    goal_plus: 50,
+    goal_minus: 50,
+    bilans: 0,
+    points: 10,
+  },
+]
+
+export default tables

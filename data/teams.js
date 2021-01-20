@@ -1,18 +1,18 @@
 const teams = [
   {
-    name: "Victory",
-    site: "tigers",
-    shortName: "VTK",
+    name: "Portland",
+    site: "portland",
+    shortName: "POR",
     logo: "images/victory.jpg"
   },
   {
-    name: "Kame",
-    site: "dragons",
+    name: "Tarnhem",
+    site: "wolves",
     shortName: "KDR",
     logo: "images/kame.jpg"
   },
   {
-    name: "Ashton",
+    name: "Icegaard",
     site: "celtics",
     shortName: "ACE",
     logo: "images/celtics.jpg"
