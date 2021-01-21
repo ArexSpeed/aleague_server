@@ -10,7 +10,7 @@ const teamSchema = mongoose.Schema(
       type: String,
       required: true
     },
-    shortName: {
+    short_name: {
       type: String,
       required: true
     },

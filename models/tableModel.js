@@ -14,7 +14,7 @@ const tableSchema = mongoose.Schema(
       type: String,
       required: true
     },
-    matches: {
+    match: {
       type: Number,
       required: true
     },
