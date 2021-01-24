@@ -20,7 +20,6 @@ const matchSchema = mongoose.Schema(
     },
     host_score: {
       type: Number,
-      required: true
     },
     guest_name: {
       type: String,
@@ -28,7 +27,6 @@ const matchSchema = mongoose.Schema(
     },
     guest_score: {
       type: Number,
-      required: true
     },
   })
   const Match = mongoose.model('Match', matchSchema)

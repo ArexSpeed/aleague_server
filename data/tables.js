@@ -1,6 +1,6 @@
 const tables = [
   {
-    season: 2001,
+    season: 2011,
     position: 1,
     team_name: 'Victory Tigers',
     match: 30,
@@ -13,7 +13,7 @@ const tables = [
     points: 82
   },
   {
-    season: 2001,
+    season: 2011,
     position: 2,
     team_name: 'Ashton Shamrock',
     match: 30,
@@ -26,7 +26,7 @@ const tables = [
     points: 80
   },
   {
-    season: 2001,
+    season: 2011,
     position: 3,
     team_name: 'Angelo Angels',
     match: 30,
@@ -39,7 +39,7 @@ const tables = [
     points: 78
   },
   {
-    season: 2001,
+    season: 2011,
     position: 4,
     team_name: 'Jurgarda Torros',
     match: 30,
@@ -52,7 +52,7 @@ const tables = [
     points: 63
   },
   {
-    season: 2001,
+    season: 2011,
     position: 5,
     team_name: 'Ronnpolis FC',
     match: 30,
@@ -65,7 +65,7 @@ const tables = [
     points: 59
   },
   {
-    season: 2001,
+    season: 2011,
     position: 6,
     team_name: 'Arkov Diamond',
     match: 30,
@@ -78,7 +78,7 @@ const tables = [
     points: 55
   },
   {
-    season: 2001,
+    season: 2011,
     position: 7,
     team_name: 'Dark Knights',
     match: 30,
@@ -91,7 +91,7 @@ const tables = [
     points: 54
   },
   {
-    season: 2001,
+    season: 2011,
     position: 8,
     team_name: 'Montanviu Bears',
     match: 30,
@@ -104,7 +104,7 @@ const tables = [
     points: 45
   },
   {
-    season: 2001,
+    season: 2011,
     position: 9,
     team_name: 'Maverick Neptuns',
     match: 30,
@@ -117,7 +117,7 @@ const tables = [
     points: 37
   },
   {
-    season: 2001,
+    season: 2011,
     position: 10,
     team_name: 'Gotan Bats',
     match: 30,
@@ -130,7 +130,7 @@ const tables = [
     points: 36
   },
   {
-    season: 2001,
+    season: 2011,
     position: 11,
     team_name: 'Kingsleen Monarch',
     match: 30,
@@ -143,7 +143,7 @@ const tables = [
     points: 26
   },
   {
-    season: 2001,
+    season: 2011,
     position: 12,
     team_name: 'Rosengaard Roses',
     match: 30,
@@ -156,7 +156,7 @@ const tables = [
     points: 22
   },
   {
-    season: 2001,
+    season: 2011,
     position: 13,
     team_name: 'Tozen Goats',
     match: 30,
@@ -169,7 +169,7 @@ const tables = [
     points: 13
   },
   {
-    season: 2001,
+    season: 2011,
     position: 14,
     team_name: 'Tarnhem Wolves',
     match: 30,
@@ -182,7 +182,7 @@ const tables = [
     points: 11
   },
   {
-    season: 2001,
+    season: 2011,
     position: 15,
     team_name: 'Diampero Bolts',
     match: 30,
@@ -195,7 +195,7 @@ const tables = [
     points: 10
   },
   {
-    season: 2001,
+    season: 2011,
     position: 16,
     team_name: 'Tigra Fox',
     match: 30,
@@ -208,7 +208,7 @@ const tables = [
     points: 9
   },
   {
-    season: 2002,
+    season: 2012,
     position: 1,
     team_name: 'Jurgarda Torros',
     match: 30,
@@ -221,7 +221,7 @@ const tables = [
     points: 63
   },
   {
-    season: 2002,
+    season: 2012,
     position: 2,
     team_name: 'Victory Tigers',
     match: 30,
@@ -234,7 +234,7 @@ const tables = [
     points: 57
   },
   {
-    season: 2002,
+    season: 2012,
     position: 3,
     team_name: 'Ronnpolis FC',
     match: 30,
@@ -247,7 +247,7 @@ const tables = [
     points: 54
   },
   {
-    season: 2002,
+    season: 2012,
     position: 4,
     team_name: 'Dark Knights',
     match: 30,
@@ -260,7 +260,7 @@ const tables = [
     points: 53
   },
   {
-    season: 2002,
+    season: 2012,
     position: 5,
     team_name: 'Arkov Diamond',
     match: 30,
@@ -273,7 +273,7 @@ const tables = [
     points: 52
   },
   {
-    season: 2002,
+    season: 2012,
     position: 6,
     team_name: 'Ashton Shamrock',
     match: 30,
@@ -286,7 +286,7 @@ const tables = [
     points: 50
   },
   {
-    season: 2002,
+    season: 2012,
     position: 7,
     team_name: 'Tigra Fox',
     match: 30,
@@ -299,7 +299,7 @@ const tables = [
     points: 49
   },
   {
-    season: 2002,
+    season: 2012,
     position: 8,
     team_name: 'Angelo Angels',
     match: 30,
@@ -312,7 +312,7 @@ const tables = [
     points: 43
   },
   {
-    season: 2002,
+    season: 2012,
     position: 9,
     team_name: 'Montanviu Bears',
     match: 30,
@@ -325,7 +325,7 @@ const tables = [
     points: 39
   },
   {
-    season: 2002,
+    season: 2012,
     position: 10,
     team_name: 'Diampero Bolts',
     match: 30,
@@ -338,7 +338,7 @@ const tables = [
     points: 30
   },
   {
-    season: 2002,
+    season: 2012,
     position: 11,
     team_name: 'Rosengaard Roses',
     match: 30,
@@ -351,7 +351,7 @@ const tables = [
     points: 29
   },
   {
-    season: 2002,
+    season: 2012,
     position: 12,
     team_name: 'Tarnhem Wolves',
     match: 30,
@@ -364,7 +364,7 @@ const tables = [
     points: 29
   },
   {
-    season: 2002,
+    season: 2012,
     position: 13,
     team_name: 'Gotan Bats',
     match: 30,
@@ -377,7 +377,7 @@ const tables = [
     points: 26
   },
   {
-    season: 2002,
+    season: 2012,
     position: 14,
     team_name: 'Maverick Neptuns',
     match: 30,
@@ -390,7 +390,7 @@ const tables = [
     points: 22
   },
   {
-    season: 2002,
+    season: 2012,
     position: 15,
     team_name: 'Kingsleen Monarch',
     match: 30,
@@ -403,7 +403,7 @@ const tables = [
     points: 22
   },
   {
-    season: 2002,
+    season: 2012,
     position: 16,
     team_name: 'Tozen Goats',
     match: 30,
@@ -416,7 +416,7 @@ const tables = [
     points: 21
   },
   {
-    season: 2003,
+    season: 2013,
     position: 1,
     team_name: 'Angelo Angels',
     match: 30,
@@ -429,7 +429,7 @@ const tables = [
     points: 70
   },
   {
-    season: 2003,
+    season: 2013,
     position: 2,
     team_name: 'Ashton Shamrock',
     match: 30,
@@ -442,7 +442,7 @@ const tables = [
     points: 58
   },
   {
-    season: 2003,
+    season: 2013,
     position: 3,
     team_name: 'Jurgarda Torros',
     match: 30,
@@ -455,7 +455,7 @@ const tables = [
     points: 47
   },
   {
-    season: 2003,
+    season: 2013,
     position: 4,
     team_name: 'Victory Tigers',
     match: 30,
@@ -468,7 +468,7 @@ const tables = [
     points: 46
   },
   {
-    season: 2003,
+    season: 2013,
     position: 5,
     team_name: 'Kingsleen Monarch',
     match: 30,
@@ -481,7 +481,7 @@ const tables = [
     points: 45
   },
   {
-    season: 2003,
+    season: 2013,
     position: 6,
     team_name: 'Arkov Diamond',
     match: 30,
@@ -494,7 +494,7 @@ const tables = [
     points: 44
   },
   {
-    season: 2003,
+    season: 2013,
     position: 7,
     team_name: 'Tarnhem Wolves',
     match: 30,
@@ -507,7 +507,7 @@ const tables = [
     points: 44
   },
   {
-    season: 2003,
+    season: 2013,
     position: 8,
     team_name: 'Rosengaard Roses',
     match: 30,
@@ -520,7 +520,7 @@ const tables = [
     points: 43
   },
   {
-    season: 2003,
+    season: 2013,
     position: 9,
     team_name: 'Tigra Fox',
     match: 30,
@@ -533,7 +533,7 @@ const tables = [
     points: 41
   },
   {
-    season: 2003,
+    season: 2013,
     position: 10,
     team_name: 'Maverick Neptuns',
     match: 30,
@@ -546,7 +546,7 @@ const tables = [
     points: 41
   },
   {
-    season: 2003,
+    season: 2013,
     position: 11,
     team_name: 'Ronnpolis FC',
     match: 30,
@@ -559,7 +559,7 @@ const tables = [
     points: 41
   },
   {
-    season: 2003,
+    season: 2013,
     position: 12,
     team_name: 'Gotan Bats',
     match: 30,
@@ -572,7 +572,7 @@ const tables = [
     points: 35
   },
   {
-    season: 2003,
+    season: 2013,
     position: 13,
     team_name: 'Montanviu Bears',
     match: 30,
@@ -585,7 +585,7 @@ const tables = [
     points: 27
   },
   {
-    season: 2003,
+    season: 2013,
     position: 14,
     team_name: 'Dark Knights',
     match: 30,
@@ -598,7 +598,7 @@ const tables = [
     points: 22
   },
   {
-    season: 2003,
+    season: 2013,
     position: 15,
     team_name: 'Tozen Goats',
     match: 30,
@@ -611,7 +611,7 @@ const tables = [
     points: 19
   },
   {
-    season: 2003,
+    season: 2013,
     position: 16,
     team_name: 'Diampero Bolts',
     match: 30,
@@ -624,7 +624,7 @@ const tables = [
     points: 11
   },
   {
-    season: 2004,
+    season: 2014,
     position: 1,
     team_name: 'Victory Tigers',
     match: 30,
@@ -637,7 +637,7 @@ const tables = [
     points: 56
   },
   {
-    season: 2004,
+    season: 2014,
     position: 2,
     team_name: 'Tigra Fox',
     match: 30,
@@ -650,7 +650,7 @@ const tables = [
     points: 49
   },
   {
-    season: 2004,
+    season: 2014,
     position: 3,
     team_name: 'Maverick Neptuns',
     match: 30,
@@ -663,7 +663,7 @@ const tables = [
     points: 48
   },
   {
-    season: 2004,
+    season: 2014,
     position: 4,
     team_name: 'Kingsleen Monarch',
     match: 30,
@@ -676,7 +676,7 @@ const tables = [
     points: 45
   },
   {
-    season: 2004,
+    season: 2014,
     position: 5,
     team_name: 'Montanviu Bears',
     match: 30,
@@ -689,7 +689,7 @@ const tables = [
     points: 42
   },
   {
-    season: 2004,
+    season: 2014,
     position: 6,
     team_name: 'Rosengaard Roses',
     match: 30,
@@ -702,7 +702,7 @@ const tables = [
     points: 41
   },
   {
-    season: 2004,
+    season: 2014,
     position: 7,
     team_name: 'Tozen Goats',
     match: 30,
@@ -715,7 +715,7 @@ const tables = [
     points: 40
   },
   {
-    season: 2004,
+    season: 2014,
     position: 8,
     team_name: 'Tarnhem Wolves',
     match: 30,
@@ -728,7 +728,7 @@ const tables = [
     points: 39
   },
   {
-    season: 2004,
+    season: 2014,
     position: 9,
     team_name: 'Dark Knights',
     match: 30,
@@ -741,7 +741,7 @@ const tables = [
     points: 39
   },
   {
-    season: 2004,
+    season: 2014,
     position: 10,
     team_name: 'Angelo Angels',
     match: 30,
@@ -754,7 +754,7 @@ const tables = [
     points: 36
   },
   {
-    season: 2004,
+    season: 2014,
     position: 11,
     team_name: 'Jurgarda Torros',
     match: 30,
@@ -767,7 +767,7 @@ const tables = [
     points: 35
   },
   {
-    season: 2004,
+    season: 2014,
     position: 12,
     team_name: 'Ronnpolis FC',
     match: 30,
@@ -780,7 +780,7 @@ const tables = [
     points: 34
   },
   {
-    season: 2004,
+    season: 2014,
     position: 13,
     team_name: 'Ashton Shamrock',
     match: 30,
@@ -793,7 +793,7 @@ const tables = [
     points: 32
   },
   {
-    season: 2004,
+    season: 2014,
     position: 14,
     team_name: 'Arkov Diamond',
     match: 30,
@@ -806,7 +806,7 @@ const tables = [
     points: 31
   },
   {
-    season: 2004,
+    season: 2014,
     position: 15,
     team_name: 'Gotan Bats',
     match: 30,
@@ -819,7 +819,7 @@ const tables = [
     points: 30
   },
   {
-    season: 2004,
+    season: 2014,
     position: 16,
     team_name: 'Diampero Bolts',
     match: 30,
@@ -832,7 +832,7 @@ const tables = [
     points: 22
   },
   {
-    season: 2005,
+    season: 2015,
     position: 1,
     team_name: 'Victory Tigers',
     match: 30,
@@ -845,7 +845,7 @@ const tables = [
     points: 74
   },
   {
-    season: 2005,
+    season: 2015,
     position: 2,
     team_name: 'Dark Knights',
     match: 30,
@@ -858,7 +858,7 @@ const tables = [
     points: 67
   },
   {
-    season: 2005,
+    season: 2015,
     position: 3,
     team_name: 'Ashton Shamrock',
     match: 30,
@@ -871,7 +871,7 @@ const tables = [
     points: 62
   },
   {
-    season: 2005,
+    season: 2015,
     position: 4,
     team_name: 'Maverick Neptuns',
     match: 30,
@@ -884,7 +884,7 @@ const tables = [
     points: 55
   },
   {
-    season: 2005,
+    season: 2015,
     position: 5,
     team_name: 'Angelo Angels',
     match: 30,
@@ -897,7 +897,7 @@ const tables = [
     points: 51
   },
   {
-    season: 2005,
+    season: 2015,
     position: 6,
     team_name: 'Tigra Fox',
     match: 30,
@@ -910,7 +910,7 @@ const tables = [
     points: 51
   },
   {
-    season: 2005,
+    season: 2015,
     position: 7,
     team_name: 'Montanviu Bears',
     match: 30,
@@ -923,7 +923,7 @@ const tables = [
     points: 44
   },
   {
-    season: 2005,
+    season: 2015,
     position: 8,
     team_name: 'Tozen Goats',
     match: 30,
@@ -936,7 +936,7 @@ const tables = [
     points: 40
   },
   {
-    season: 2005,
+    season: 2015,
     position: 9,
     team_name: 'Arkov Diamond',
     match: 30,
@@ -949,7 +949,7 @@ const tables = [
     points: 35
   },
   {
-    season: 2005,
+    season: 2015,
     position: 10,
     team_name: 'Diampero Bolts',
     match: 30,
@@ -962,7 +962,7 @@ const tables = [
     points: 30
   },
   {
-    season: 2005,
+    season: 2015,
     position: 11,
     team_name: 'Rosengaard Roses',
     match: 30,
@@ -975,7 +975,7 @@ const tables = [
     points: 29
   },
   {
-    season: 2005,
+    season: 2015,
     position: 12,
     team_name: 'Tarnhem Wolves',
     match: 30,
@@ -988,7 +988,7 @@ const tables = [
     points: 26
   },
   {
-    season: 2005,
+    season: 2015,
     position: 13,
     team_name: 'Ronnpolis FC',
     match: 30,
@@ -1001,7 +1001,7 @@ const tables = [
     points: 24
   },
   {
-    season: 2005,
+    season: 2015,
     position: 14,
     team_name: 'Jurgarda Torros',
     match: 30,
@@ -1014,7 +1014,7 @@ const tables = [
     points: 20
   },
   {
-    season: 2005,
+    season: 2015,
     position: 15,
     team_name: 'Kingsleen Monarch',
     match: 30,
@@ -1027,7 +1027,7 @@ const tables = [
     points: 16
   },
   {
-    season: 2005,
+    season: 2015,
     position: 16,
     team_name: 'Gotan Bats',
     match: 30,
@@ -1040,7 +1040,7 @@ const tables = [
     points: 14
   },
   {
-    season: 2006,
+    season: 2016,
     position: 1,
     team_name: 'Angelo Angels',
     match: 30,
@@ -1053,7 +1053,7 @@ const tables = [
     points: 75
   },
   {
-    season: 2006,
+    season: 2016,
     position: 2,
     team_name: 'Gotan Bats',
     match: 30,
@@ -1066,7 +1066,7 @@ const tables = [
     points: 66
   },
   {
-    season: 2006,
+    season: 2016,
     position: 3,
     team_name: 'Kingsleen Monarch',
     match: 30,
@@ -1079,7 +1079,7 @@ const tables = [
     points: 55
   },
   {
-    season: 2006,
+    season: 2016,
     position: 4,
     team_name: 'Rosengaard Roses',
     match: 30,
@@ -1092,7 +1092,7 @@ const tables = [
     points: 47
   },
   {
-    season: 2006,
+    season: 2016,
     position: 5,
     team_name: 'Ronnpolis FC',
     match: 30,
@@ -1105,7 +1105,7 @@ const tables = [
     points: 47
   },
   {
-    season: 2006,
+    season: 2016,
     position: 6,
     team_name: 'Diampero Bolts',
     match: 30,
@@ -1118,7 +1118,7 @@ const tables = [
     points: 41
   },
   {
-    season: 2006,
+    season: 2016,
     position: 7,
     team_name: 'Arkov Diamond',
     match: 30,
@@ -1131,7 +1131,7 @@ const tables = [
     points: 38
   },
   {
-    season: 2006,
+    season: 2016,
     position: 8,
     team_name: 'Tozen Goats',
     match: 30,
@@ -1144,7 +1144,7 @@ const tables = [
     points: 37
   },
   {
-    season: 2006,
+    season: 2016,
     position: 9,
     team_name: 'Montanviu Bears',
     match: 30,
@@ -1157,7 +1157,7 @@ const tables = [
     points: 36
   },
   {
-    season: 2006,
+    season: 2016,
     position: 10,
     team_name: 'Tigra Fox',
     match: 30,
@@ -1170,7 +1170,7 @@ const tables = [
     points: 35
   },
   {
-    season: 2006,
+    season: 2016,
     position: 11,
     team_name: 'Tarnhem Wolves',
     match: 30,
@@ -1183,7 +1183,7 @@ const tables = [
     points: 34
   },
   {
-    season: 2006,
+    season: 2016,
     position: 12,
     team_name: 'Ashton Shamrock',
     match: 30,
@@ -1196,7 +1196,7 @@ const tables = [
     points: 30
   },
   {
-    season: 2006,
+    season: 2016,
     position: 13,
     team_name: 'Maverick Neptuns',
     match: 30,
@@ -1209,7 +1209,7 @@ const tables = [
     points: 24
   },
   {
-    season: 2006,
+    season: 2016,
     position: 14,
     team_name: 'Dark Knights',
     match: 30,
@@ -1222,7 +1222,7 @@ const tables = [
     points: 24
   },
   {
-    season: 2006,
+    season: 2016,
     position: 15,
     team_name: 'Jurgarda Torros',
     match: 30,
@@ -1235,7 +1235,7 @@ const tables = [
     points: 23
   },
   {
-    season: 2006,
+    season: 2016,
     position: 16,
     team_name: 'Victory Tigers',
     match: 30,
@@ -1248,7 +1248,7 @@ const tables = [
     points: 23
   },
   {
-    season: 2007,
+    season: 2017,
     position: 1,
     team_name: 'Tozen Goats',
     match: 30,
@@ -1261,7 +1261,7 @@ const tables = [
     points: 83
   },
   {
-    season: 2007,
+    season: 2017,
     position: 2,
     team_name: 'Montanviu Bears',
     match: 30,
@@ -1274,7 +1274,7 @@ const tables = [
     points: 77
   },
   {
-    season: 2007,
+    season: 2017,
     position: 3,
     team_name: 'Jurgarda Torros',
     match: 30,
@@ -1287,7 +1287,7 @@ const tables = [
     points: 74
   },
   {
-    season: 2007,
+    season: 2017,
     position: 4,
     team_name: 'Tigra Fox',
     match: 30,
@@ -1300,7 +1300,7 @@ const tables = [
     points: 59
   },
   {
-    season: 2007,
+    season: 2017,
     position: 5,
     team_name: 'Maverick Neptuns',
     match: 30,
@@ -1313,7 +1313,7 @@ const tables = [
     points: 55
   },
   {
-    season: 2007,
+    season: 2017,
     position: 6,
     team_name: 'Gotan Bats',
     match: 30,
@@ -1326,7 +1326,7 @@ const tables = [
     points: 50
   },
   {
-    season: 2007,
+    season: 2017,
     position: 7,
     team_name: 'Kingsleen Monarch',
     match: 30,
@@ -1339,7 +1339,7 @@ const tables = [
     points: 49
   },
   {
-    season: 2007,
+    season: 2017,
     position: 8,
     team_name: 'Ashton Shamrock',
     match: 30,
@@ -1352,7 +1352,7 @@ const tables = [
     points: 47
   },
   {
-    season: 2007,
+    season: 2017,
     position: 9,
     team_name: 'Angelo Angels',
     match: 30,
@@ -1365,7 +1365,7 @@ const tables = [
     points: 44
   },
   {
-    season: 2007,
+    season: 2017,
     position: 10,
     team_name: 'Diampero Bolts',
     match: 30,
@@ -1378,7 +1378,7 @@ const tables = [
     points: 33
   },
   {
-    season: 2007,
+    season: 2017,
     position: 11,
     team_name: 'Victory Tigers',
     match: 30,
@@ -1391,7 +1391,7 @@ const tables = [
     points: 30
   },
   {
-    season: 2007,
+    season: 2017,
     position: 12,
     team_name: 'Dark Knights',
     match: 30,
@@ -1404,7 +1404,7 @@ const tables = [
     points: 27
   },
   {
-    season: 2007,
+    season: 2017,
     position: 13,
     team_name: 'Tarnhem Wolves',
     match: 30,
@@ -1417,7 +1417,7 @@ const tables = [
     points: 21
   },
   {
-    season: 2007,
+    season: 2017,
     position: 14,
     team_name: 'Arkov Diamond',
     match: 30,
@@ -1430,7 +1430,7 @@ const tables = [
     points: 10
   },
   {
-    season: 2007,
+    season: 2017,
     position: 15,
     team_name: 'Rosengaard Roses',
     match: 30,
@@ -1443,7 +1443,7 @@ const tables = [
     points: 6
   },
   {
-    season: 2007,
+    season: 2017,
     position: 16,
     team_name: 'Ronnpolis FC',
     match: 30,
@@ -1456,7 +1456,7 @@ const tables = [
     points: 4
   },
   {
-    season: 2008,
+    season: 2018,
     position: 1,
     team_name: 'Gotan Bats',
     match: 30,
@@ -1469,7 +1469,7 @@ const tables = [
     points: 73
   },
   {
-    season: 2008,
+    season: 2018,
     position: 2,
     team_name: 'Diampero Bolts',
     match: 30,
@@ -1482,7 +1482,7 @@ const tables = [
     points: 57
   },
   {
-    season: 2008,
+    season: 2018,
     position: 3,
     team_name: 'Tigra Fox',
     match: 30,
@@ -1495,7 +1495,7 @@ const tables = [
     points: 55
   },
   {
-    season: 2008,
+    season: 2018,
     position: 4,
     team_name: 'Maverick Neptuns',
     match: 30,
@@ -1508,7 +1508,7 @@ const tables = [
     points: 49
   },
   {
-    season: 2008,
+    season: 2018,
     position: 5,
     team_name: 'Angelo Angels',
     match: 30,
@@ -1521,7 +1521,7 @@ const tables = [
     points: 47
   },
   {
-    season: 2008,
+    season: 2018,
     position: 6,
     team_name: 'Ashton Shamrock',
     match: 30,
@@ -1534,7 +1534,7 @@ const tables = [
     points: 43
   },
   {
-    season: 2008,
+    season: 2018,
     position: 7,
     team_name: 'Jurgarda Torros',
     match: 30,
@@ -1547,7 +1547,7 @@ const tables = [
     points: 39
   },
   {
-    season: 2008,
+    season: 2018,
     position: 8,
     team_name: 'Victory Tigers',
     match: 30,
@@ -1560,7 +1560,7 @@ const tables = [
     points: 39
   },
   {
-    season: 2008,
+    season: 2018,
     position: 9,
     team_name: 'Ronnpolis FC',
     match: 30,
@@ -1573,7 +1573,7 @@ const tables = [
     points: 38
   },
   {
-    season: 2008,
+    season: 2018,
     position: 10,
     team_name: 'Montanviu Bears',
     match: 30,
@@ -1586,7 +1586,7 @@ const tables = [
     points: 38
   },
   {
-    season: 2008,
+    season: 2018,
     position: 11,
     team_name: 'Tozen Goats',
     match: 30,
@@ -1599,7 +1599,7 @@ const tables = [
     points: 34
   },
   {
-    season: 2008,
+    season: 2018,
     position: 12,
     team_name: 'Tarnhem Wolves',
     match: 30,
@@ -1612,7 +1612,7 @@ const tables = [
     points: 28
   },
   {
-    season: 2008,
+    season: 2018,
     position: 13,
     team_name: 'Rosengaard Roses',
     match: 30,
@@ -1625,7 +1625,7 @@ const tables = [
     points: 28
   },
   {
-    season: 2008,
+    season: 2018,
     position: 14,
     team_name: 'Kingsleen Monarch',
     match: 30,
@@ -1638,7 +1638,7 @@ const tables = [
     points: 26
   },
   {
-    season: 2008,
+    season: 2018,
     position: 15,
     team_name: 'Arkov Diamond',
     match: 30,
@@ -1651,7 +1651,7 @@ const tables = [
     points: 21
   },
   {
-    season: 2008,
+    season: 2018,
     position: 16,
     team_name: 'Dark Knights',
     match: 30,
@@ -1664,7 +1664,7 @@ const tables = [
     points: 13
   },
   {
-    season: 2009,
+    season: 2019,
     position: 1,
     team_name: 'Tarnhem Wolves',
     match: 30,
@@ -1677,7 +1677,7 @@ const tables = [
     points: 74
   },
   {
-    season: 2009,
+    season: 2019,
     position: 2,
     team_name: 'Diampero Bolts',
     match: 30,
@@ -1690,7 +1690,7 @@ const tables = [
     points: 68
   },
   {
-    season: 2009,
+    season: 2019,
     position: 3,
     team_name: 'Rosengaard Roses',
     match: 30,
@@ -1703,7 +1703,7 @@ const tables = [
     points: 66
   },
   {
-    season: 2009,
+    season: 2019,
     position: 4,
     team_name: 'Victory Tigers',
     match: 30,
@@ -1716,7 +1716,7 @@ const tables = [
     points: 62
   },
   {
-    season: 2009,
+    season: 2019,
     position: 5,
     team_name: 'Angelo Angels',
     match: 30,
@@ -1729,7 +1729,7 @@ const tables = [
     points: 57
   },
   {
-    season: 2009,
+    season: 2019,
     position: 6,
     team_name: 'Dark Knights',
     match: 30,
@@ -1742,7 +1742,7 @@ const tables = [
     points: 47
   },
   {
-    season: 2009,
+    season: 2019,
     position: 7,
     team_name: 'Kingsleen Monarch',
     match: 30,
@@ -1755,7 +1755,7 @@ const tables = [
     points: 46
   },
   {
-    season: 2009,
+    season: 2019,
     position: 8,
     team_name: 'Montanviu Bears',
     match: 30,
@@ -1768,7 +1768,7 @@ const tables = [
     points: 46
   },
   {
-    season: 2009,
+    season: 2019,
     position: 9,
     team_name: 'Tigra Fox',
     match: 30,
@@ -1781,7 +1781,7 @@ const tables = [
     points: 42
   },
   {
-    season: 2009,
+    season: 2019,
     position: 10,
     team_name: 'Ashton Shamrock',
     match: 30,
@@ -1794,7 +1794,7 @@ const tables = [
     points: 39
   },
   {
-    season: 2009,
+    season: 2019,
     position: 11,
     team_name: 'Arkov Diamond',
     match: 30,
@@ -1807,7 +1807,7 @@ const tables = [
     points: 35
   },
   {
-    season: 2009,
+    season: 2019,
     position: 12,
     team_name: 'Maverick Neptuns',
     match: 30,
@@ -1820,7 +1820,7 @@ const tables = [
     points: 26
   },
   {
-    season: 2009,
+    season: 2019,
     position: 13,
     team_name: 'Gotan Bats',
     match: 30,
@@ -1833,7 +1833,7 @@ const tables = [
     points: 21
   },
   {
-    season: 2009,
+    season: 2019,
     position: 14,
     team_name: 'Tozen Goats',
     match: 30,
@@ -1846,7 +1846,7 @@ const tables = [
     points: 19
   },
   {
-    season: 2009,
+    season: 2019,
     position: 15,
     team_name: 'Ronnpolis FC',
     match: 30,
@@ -1859,7 +1859,7 @@ const tables = [
     points: 19
   },
   {
-    season: 2009,
+    season: 2019,
     position: 16,
     team_name: 'Jurgarda Torros',
     match: 30,
@@ -1872,7 +1872,7 @@ const tables = [
     points: 1
   },
   {
-    season: 2010,
+    season: 2020,
     position: 1,
     team_name: 'Victory Tigers',
     match: 30,
@@ -1885,7 +1885,7 @@ const tables = [
     points: 77
   },
   {
-    season: 2010,
+    season: 2020,
     position: 2,
     team_name: 'Ashton Shamrock',
     match: 30,
@@ -1898,7 +1898,7 @@ const tables = [
     points: 67
   },
   {
-    season: 2010,
+    season: 2020,
     position: 3,
     team_name: 'Angelo Angels',
     match: 30,
@@ -1911,7 +1911,7 @@ const tables = [
     points: 67
   },
   {
-    season: 2010,
+    season: 2020,
     position: 4,
     team_name: 'Dark Knights',
     match: 30,
@@ -1924,7 +1924,7 @@ const tables = [
     points: 64
   },
   {
-    season: 2010,
+    season: 2020,
     position: 5,
     team_name: 'Ronnpolis FC',
     match: 30,
@@ -1937,7 +1937,7 @@ const tables = [
     points: 60
   },
   {
-    season: 2010,
+    season: 2020,
     position: 6,
     team_name: 'Maverick Neptuns',
     match: 30,
@@ -1950,7 +1950,7 @@ const tables = [
     points: 54
   },
   {
-    season: 2010,
+    season: 2020,
     position: 7,
     team_name: 'Tigra Fox',
     match: 30,
@@ -1963,7 +1963,7 @@ const tables = [
     points: 37
   },
   {
-    season: 2010,
+    season: 2020,
     position: 8,
     team_name: 'Gotan Bats',
     match: 30,
@@ -1976,7 +1976,7 @@ const tables = [
     points: 37
   },
   {
-    season: 2010,
+    season: 2020,
     position: 9,
     team_name: 'Montanviu Bears',
     match: 30,
@@ -1989,7 +1989,7 @@ const tables = [
     points: 32
   },
   {
-    season: 2010,
+    season: 2020,
     position: 10,
     team_name: 'Tarnhem Wolves',
     match: 30,
@@ -2002,7 +2002,7 @@ const tables = [
     points: 31
   },
   {
-    season: 2010,
+    season: 2020,
     position: 11,
     team_name: 'Arkov Diamond',
     match: 30,
@@ -2015,7 +2015,7 @@ const tables = [
     points: 28
   },
   {
-    season: 2010,
+    season: 2020,
     position: 12,
     team_name: 'Diampero Bolts',
     match: 30,
@@ -2028,7 +2028,7 @@ const tables = [
     points: 22
   },
   {
-    season: 2010,
+    season: 2020,
     position: 13,
     team_name: 'Jurgarda Torros',
     match: 30,
@@ -2041,7 +2041,7 @@ const tables = [
     points: 19
   },
   {
-    season: 2010,
+    season: 2020,
     position: 14,
     team_name: 'Tozen Goats',
     match: 30,
@@ -2054,7 +2054,7 @@ const tables = [
     points: 19
   },
   {
-    season: 2010,
+    season: 2020,
     position: 15,
     team_name: 'Rosengaard Roses',
     match: 30,
@@ -2067,7 +2067,7 @@ const tables = [
     points: 18
   },
   {
-    season: 2010,
+    season: 2020,
     position: 16,
     team_name: 'Kingsleen Monarch',
     match: 30,
@@ -2078,6 +2078,214 @@ const tables = [
     goal_minus: 47,
     bilans: -33,
     points: 15
+  },
+  {
+    season: 2021,
+    position: 1,
+    team_name: 'Arkov Diamond',
+    match: 15,
+    win: 11,
+    draw: 4,
+    lose: 0,
+    goal_plus: 24,
+    goal_minus: 7,
+    bilans: 17,
+    points: 37
+  },
+  {
+    season: 2021,
+    position: 2,
+    team_name: 'Ashton Shamrock',
+    match: 15,
+    win: 10,
+    draw: 4,
+    lose: 1,
+    goal_plus: 22,
+    goal_minus: 9,
+    bilans: 13,
+    points: 34
+  },
+  {
+    season: 2021,
+    position: 3,
+    team_name: 'Diampero Bolts',
+    match: 15,
+    win: 9,
+    draw: 4,
+    lose: 2,
+    goal_plus: 16,
+    goal_minus: 6,
+    bilans: 10,
+    points: 31
+  },
+  {
+    season: 2021,
+    position: 4,
+    team_name: 'Angelo Angels',
+    match: 15,
+    win: 9,
+    draw: 3,
+    lose: 3,
+    goal_plus: 15,
+    goal_minus: 6,
+    bilans: 9,
+    points: 30
+  },
+  {
+    season: 2021,
+    position: 5,
+    team_name: 'Montanviu Bears',
+    match: 15,
+    win: 8,
+    draw: 4,
+    lose: 3,
+    goal_plus: 17,
+    goal_minus: 8,
+    bilans: 9,
+    points: 28
+  },
+  {
+    season: 2021,
+    position: 6,
+    team_name: 'Victory Tigers',
+    match: 15,
+    win: 7,
+    draw: 6,
+    lose: 2,
+    goal_plus: 20,
+    goal_minus: 11,
+    bilans: 9,
+    points: 27
+  },
+  {
+    season: 2021,
+    position: 7,
+    team_name: 'Maverick Neptuns',
+    match: 15,
+    win: 6,
+    draw: 5,
+    lose: 4,
+    goal_plus: 15,
+    goal_minus: 11,
+    bilans: 4,
+    points: 23
+  },
+  {
+    season: 2021,
+    position: 8,
+    team_name: 'Tarnhem Wolves',
+    match: 15,
+    win: 5,
+    draw: 5,
+    lose: 5,
+    goal_plus: 13,
+    goal_minus: 11,
+    bilans: 2,
+    points: 20
+  },
+  {
+    season: 2021,
+    position: 9,
+    team_name: 'Jurgarda Torros',
+    match: 15,
+    win: 4,
+    draw: 6,
+    lose: 5,
+    goal_plus: 12,
+    goal_minus: 13,
+    bilans: -1,
+    points: 18
+  },
+  {
+    season: 2021,
+    position: 10,
+    team_name: 'Tigra Fox',
+    match: 15,
+    win: 5,
+    draw: 2,
+    lose: 8,
+    goal_plus: 9,
+    goal_minus: 12,
+    bilans: -3,
+    points: 17
+  },
+  {
+    season: 2021,
+    position: 11,
+    team_name: 'Rosengaard Roses',
+    match: 15,
+    win: 3,
+    draw: 5,
+    lose: 7,
+    goal_plus: 11,
+    goal_minus: 18,
+    bilans: -7,
+    points: 14
+  },
+  {
+    season: 2021,
+    position: 12,
+    team_name: 'Gotan Bats',
+    match: 15,
+    win: 2,
+    draw: 7,
+    lose: 6,
+    goal_plus: 7,
+    goal_minus: 12,
+    bilans: -5,
+    points: 13
+  },
+  {
+    season: 2021,
+    position: 13,
+    team_name: 'Dark Knights',
+    match: 15,
+    win: 2,
+    draw: 6,
+    lose: 7,
+    goal_plus: 8,
+    goal_minus: 17,
+    bilans: -9,
+    points: 12
+  },
+  {
+    season: 2021,
+    position: 14,
+    team_name: 'Tozen Goats',
+    match: 15,
+    win: 1,
+    draw: 6,
+    lose: 8,
+    goal_plus: 7,
+    goal_minus: 19,
+    bilans: -12,
+    points: 9
+  },
+  {
+    season: 2021,
+    position: 15,
+    team_name: 'Kingsleen Monarch',
+    match: 15,
+    win: 1,
+    draw: 4,
+    lose: 10,
+    goal_plus: 7,
+    goal_minus: 23,
+    bilans: -16,
+    points: 7
+  },
+  {
+    season: 2021,
+    position: 16,
+    team_name: 'Ronnpolis FC',
+    match: 15,
+    win: 0,
+    draw: 3,
+    lose: 12,
+    goal_plus: 5,
+    goal_minus: 25,
+    bilans: -20,
+    points: 3
   }
 ]
 
