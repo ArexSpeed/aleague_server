@@ -3,9 +3,11 @@ import dotenv from 'dotenv'
 import Team from './models/teamModel.js'
 import Table from './models/tableModel.js'
 import Match from './models/matchModel.js'
+import Vote from './models/voteModel.js'
 import teams from './data/teams.js'
 import tables from './data/tables.js'
 import matches from './data/matches.js'
+import votes from './data/votes.js'
 import connectDB from './config/db.js'
 
 dotenv.config()
@@ -69,6 +71,26 @@ const importMatch = async () => {
   }
 }
 
+
+const importVote = async () => {
+  try {
+    await Vote.deleteMany()
+
+
+    const addedVote = votes.map((vote) => {
+      return { ...vote }
+    })
+
+    await Vote.insertMany(addedVote)
+
+    console.log('Votes Imported!')
+    process.exit()
+  } catch (error) {
+    console.error(`${error}`)
+    process.exit(1)
+  }
+}
+
 if (process.argv[2] === '-d') {
   destroyData()
 } else if(process.argv[2] === 'team') {
@@ -77,6 +99,9 @@ if (process.argv[2] === '-d') {
   importTable()
 }else if(process.argv[2] === 'match') {
   importMatch()
+}
+else if(process.argv[2] === 'vote') {
+  importVote()
 }
 else{
   console.log(process.argv, 'process')
