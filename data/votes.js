@@ -122,6 +122,36 @@ const votes = [
     club: "Jurgarda Torros",
     points: 0
   },
+  {
+    category: "Coach",
+    name: "Larry Voks",
+    club: "Arkov Diamond",
+    points: 0
+  },
+  {
+    category: "Coach",
+    name: "Tim Marshmal",
+    club: "Ashton Shamrock",
+    points: 0
+  },
+  {
+    category: "Coach",
+    name: "Martin Ricks",
+    club: "Diampero Bolts",
+    points: 0
+  },
+  {
+    category: "Coach",
+    name: "Sergio Munez",
+    club: "Angelo Angels",
+    points: 0
+  },
+  {
+    category: "Coach",
+    name: "Ron Jenkins",
+    club: "Victory Tigers",
+    points: 0
+  },
 ]
 
 export default votes;
