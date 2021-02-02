@@ -1,4 +1,6 @@
 import Vote from '../models/voteModel.js'
+import Pusher from 'pusher'
+
 
 //Get votes
 const getVotes = async(req,res) => {
@@ -9,19 +11,19 @@ const getVotes = async(req,res) => {
 
 const addVotes = async (req,res) => {
   const {goalkeeper, defender, midfielder, forward, coach} = req.body
-  console.log(goalkeeper, defender, forward)
+  console.log(goalkeeper, defender,midfielder, forward, coach)
   const goalkeeperVote = await Vote.findOne({name: goalkeeper})
   const defenderVote = await Vote.findOne({name: defender})
   const midfielderVote = await Vote.findOne({name: midfielder})
   const forwardVote = await Vote.findOne({name: forward})
   const coachVote = await Vote.findOne({name: coach})
-  const points = await Vote.findById({_id: "6018088cea9845d6f879a551"})
+  const points = await Vote.findById({_id: "60190c0a71fe7c0d061fc1f9"})
   
   if(goalkeeperVote){
     goalkeeperVote.points++
     points.allPoints++
-    await goalkeeperVote.save() 
-    await points.save() 
+    await goalkeeperVote.save()
+    await points.save()
   }
   if(defenderVote){
     defenderVote.points++
